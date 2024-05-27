@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+ $basetexture "models/player/_parts/head/heads-2"
+ $bumpmap "models/player/_parts/head/heads-2_normal"
+ $phong 1
+ $phongexponent 1
+ $phongboost "0.100000"
+ $phongfresnelranges "[0.1 .5 1]"
+ $rimlight 1
+ $rimlightexponent 10
+ $rimlightboost "0.2"
+}
