@@ -1,0 +1,4 @@
+vertexlitgeneric
+{
+ $baseTexture "models/player/_parts/head/heads-2C"
+}
