@@ -1,1 +1,1 @@
-![image](https://github.com/Cheesechicken2/KTDFR/assets/92189346/fde13823-03ac-43d9-a7a4-2529bcf76dd1)
+![logo](https://github.com/Cheesechicken2/KTDFR/assets/92189346/22c9719e-1f40-42b6-96ab-e1281aa94118)
